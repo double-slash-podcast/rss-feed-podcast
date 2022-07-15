@@ -1,4 +1,10 @@
 {
   "private": true,
-  "name": "rss-feed-podcasts-playground"
+  "name": "rss-feed-podcasts-playground",
+  "volta": {
+    "node": "17.9.1"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.0.1"
+  }
 }
